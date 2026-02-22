@@ -79,7 +79,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="mailto:yiwei_feng_2023@163.com">
+  <a href="mailto:yiwei_feng_2023@163.com" style="text-decoration: none;">
     <img src="./email-svgrepo-com.svg" width="35px" alt="Email"/>
   </a>
 </div>
