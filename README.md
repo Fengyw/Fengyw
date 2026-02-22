@@ -69,12 +69,12 @@
 
 <div align="center">
   <h3>☎️ Contact Detail</h3>
-  <a href="http://fengyw.com" target="_blank">
+  <a href="http://fengyw.com" target="_blank" style="text-decoration: none;">
     <img src="./link-round-angle-svgrepo-com.svg" width="35px" alt="Personal Website"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
-  <a href="https://www.linkedin.com/in/yiwei-feng" target="_blank">
+  <a href="https://www.linkedin.com/in/yiwei-feng" target="_blank" style="text-decoration: none;">
     <img src="./linkedin-svgrepo-com.svg" width="35px" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -83,3 +83,5 @@
     <img src="./email-svgrepo-com.svg" width="35px" alt="Email"/>
   </a>
 </div>
+
+<br/>
