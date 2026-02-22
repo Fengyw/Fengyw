@@ -1,7 +1,3 @@
-
-
-
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Doto&weight=800&size=40&duration=6000&pause=1500&color=0EA5E9&background=00000000&center=true&vCenter=true&width=800&lines=👋Hi+I'am+Fengyw;Welcome+to+My+Profile😎;" alt="Typing SVG" />
 </div>
@@ -70,18 +66,15 @@
 <div align="center">
   <h3>☎️ Contact Detail</h3>
   <a href="http://fengyw.com" target="_blank" style="text-decoration: none;">
-    <img src="./link-round-angle-svgrepo-com.svg" width="35px" alt="Personal Website"/>
-  </a>
+    <img src="./link-round-angle-svgrepo-com.svg" width="35px" alt="Personal Website"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="https://www.linkedin.com/in/yiwei-feng" target="_blank" style="text-decoration: none;">
-    <img src="./linkedin-svgrepo-com.svg" width="35px" alt="LinkedIn"/>
-  </a>
+  <img src="./linkedin-svgrepo-com.svg" width="35px" alt="LinkedIn"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
   <a href="mailto:yiwei_feng_2023@163.com" style="text-decoration: none;">
-    <img src="./email-svgrepo-com.svg" width="35px" alt="Email"/>
-  </a>
+    <img src="./email-svgrepo-com.svg" width="35px" alt="Email"/></a>
 </div>
 
 <br/>
