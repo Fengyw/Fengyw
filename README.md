@@ -23,7 +23,6 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fengyw&color=blue&style=flat&label=PROFILE+VIEWS" alt="Profile Views" />
   <a href="./README_ZH.md">
     <img src="https://img.shields.io/badge/切换到-中文-blue?style=flat&logo=google-translate&logoColor=white" alt="English Handled" />
   </a>
@@ -75,6 +74,13 @@
   
   <a href="mailto:yiwei_feng_2023@163.com" style="text-decoration: none;">
     <img src="./email-svgrepo-com.svg" width="35px" alt="Email"/></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>👀 Profile Views</h3>
+  <img src="https://count.getloli.com/@Fengyw?name=Fengyw&theme=love-and-deepspace&padding=7&offset=0&align=center&scale=0.7&pixelated=1&darkmode=auto" alt="Profile Views" />
 </div>
 
 <br/>
